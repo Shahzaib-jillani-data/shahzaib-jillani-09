@@ -19,7 +19,6 @@ I love turning raw data into actionable insights. Passionate about data visualiz
 
 🚀 Skills:
 
-
 SQL ( MySQL)
 Data Visualization (Power BI,ms excel)
  Data-Driven Insights
@@ -29,21 +28,6 @@ Data Visualization (Power BI,ms excel)
 💡 Always learning and exploring new data techniques. Let’s connect!
 
 Would you like to add anything specific, like links to your portfolio or a personal touch? 😊
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </p>
 
